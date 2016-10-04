@@ -1,0 +1,218 @@
+TMM
+v7
+r0
+t315501741.078787
+cCheck dependencies
+cProcessPCH /var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch.gch MM_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/MM.o "/Users/belcorriko/Dropbox/MM Improving/MM.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/Gamekeeper.o "/Users/belcorriko/Dropbox/MM Improving/Gamekeeper.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/Player.o "/Users/belcorriko/Dropbox/MM Improving/Player.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/Driver.o "/Users/belcorriko/Dropbox/MM Improving/Driver.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/BiasLearner.o "/Users/belcorriko/Dropbox/MM Improving/BiasLearner.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/belcorriko/Dropbox/MM Improving/build/Debug/MM" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/belcorriko/Dropbox/MM Improving/BiasLearner.h
+c000000004D03CDCB00000000000001DE
+t1292094923
+s478
+i<Foundation/Foundation.h>
+
+N/Users/belcorriko/Dropbox/MM Improving/BiasLearner.m
+c000000004D03CF3D00000000000010DC
+t1292095293
+s4316
+i"BiasLearner.h"
+
+N/Users/belcorriko/Dropbox/MM Improving/Driver.h
+c000000004D03CDDC0000000000000251
+t1292094940
+s593
+i<Foundation/Foundation.h>
+i"Gamekeeper.h"
+i"Player.h"
+
+N/Users/belcorriko/Dropbox/MM Improving/Driver.m
+c000000004D03CF2F0000000000000913
+t1292095279
+s2323
+i"Driver.h"
+i"BiasLearner.h"
+
+N/Users/belcorriko/Dropbox/MM Improving/Gamekeeper.h
+c000000004D03CDF200000000000003BA
+t1292094962
+s954
+i<Foundation/Foundation.h>
+
+N/Users/belcorriko/Dropbox/MM Improving/Gamekeeper.m
+c000000004D1D807E0000000000000E43
+t1293779070
+s3651
+i"Gamekeeper.h"
+
+N/Users/belcorriko/Dropbox/MM Improving/MM.m
+c000000004D03D301000000000000092E
+t1292096257
+s2350
+i<Foundation/Foundation.h>
+i"Driver.h"
+
+N/Users/belcorriko/Dropbox/MM Improving/MM_Prefix.pch
+c000000004CDC47C80000000000000092
+t1289504712
+s146
+i<Foundation/Foundation.h>
+
+N/Users/belcorriko/Dropbox/MM Improving/Player.h
+c000000004D03CDE60000000000000581
+t1292094950
+s1409
+i<Foundation/Foundation.h>
+
+N/Users/belcorriko/Dropbox/MM Improving/Player.m
+c000000004D03D3020000000000004A64
+t1292096258
+s19044
+i"Player.h"
+i"BiasLearner.h"
+
+N/Users/belcorriko/Dropbox/MM Improving/build/Debug/MM
+t1293779072
+s62560
+
+N/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/BiasLearner.o
+t1293779048
+s22780
+
+N/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/Driver.o
+t1293779047
+s24144
+
+N/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/Gamekeeper.o
+t1293779072
+s37132
+
+N/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/MM.LinkFileList
+c000000004D1D805E00000000000001F9
+t1293779038
+s505
+
+N/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/MM.o
+t1293779046
+s9584
+
+N/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/Player.o
+t1293779047
+s55400
+
+N/var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch.gch
+t1293779045
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315501741#315501741#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/BiasLearner.o "/Users/belcorriko/Dropbox/MM Improving/BiasLearner.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315471847.449862
+e315471848.060867
+r1
+xCompileC
+xbuild/MM.build/Debug/MM.build/Objects-normal/x86_64/BiasLearner.o
+x/Users/belcorriko/Dropbox/MM Improving/BiasLearner.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/belcorriko/Dropbox/MM Improving/BiasLearner.m315471847#315471848#0(0"0(0#0#52"/Users/belcorriko/Dropbox/MM Improving/BiasLearner.m8595990944#1386"    cd "/Users/belcorriko/Dropbox/MM Improving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-generated-files.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-own-target-headers.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-all-target-headers.hmap" -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-project-headers.hmap" "-F/Users/belcorriko/Dropbox/MM Improving/build/Debug" "-I/Users/belcorriko/Dropbox/MM Improving/build/Debug/include" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources/x86_64" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources" -include /var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch -c "/Users/belcorriko/Dropbox/MM Improving/BiasLearner.m" -o "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/BiasLearner.o"0#
+
+CCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/Driver.o "/Users/belcorriko/Dropbox/MM Improving/Driver.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315471846.961033
+e315471847.449742
+r1
+xCompileC
+xbuild/MM.build/Debug/MM.build/Objects-normal/x86_64/Driver.o
+x/Users/belcorriko/Dropbox/MM Improving/Driver.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/belcorriko/Dropbox/MM Improving/Driver.m315471846#315471847#0(0"0(0#0#47"/Users/belcorriko/Dropbox/MM Improving/Driver.m8594046016#1376"    cd "/Users/belcorriko/Dropbox/MM Improving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-generated-files.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-own-target-headers.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-all-target-headers.hmap" -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-project-headers.hmap" "-F/Users/belcorriko/Dropbox/MM Improving/build/Debug" "-I/Users/belcorriko/Dropbox/MM Improving/build/Debug/include" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources/x86_64" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources" -include /var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch -c "/Users/belcorriko/Dropbox/MM Improving/Driver.m" -o "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/Driver.o"0#
+
+CCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/Gamekeeper.o "/Users/belcorriko/Dropbox/MM Improving/Gamekeeper.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315471871.848463
+e315471872.830649
+r1
+xCompileC
+xbuild/MM.build/Debug/MM.build/Objects-normal/x86_64/Gamekeeper.o
+x/Users/belcorriko/Dropbox/MM Improving/Gamekeeper.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/belcorriko/Dropbox/MM Improving/Gamekeeper.m315471871#315471872#0(0"0(0#0#51"/Users/belcorriko/Dropbox/MM Improving/Gamekeeper.m8609620320#1384"    cd "/Users/belcorriko/Dropbox/MM Improving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-generated-files.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-own-target-headers.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-all-target-headers.hmap" -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-project-headers.hmap" "-F/Users/belcorriko/Dropbox/MM Improving/build/Debug" "-I/Users/belcorriko/Dropbox/MM Improving/build/Debug/include" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources/x86_64" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources" -include /var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch -c "/Users/belcorriko/Dropbox/MM Improving/Gamekeeper.m" -o "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/Gamekeeper.o"0#
+
+CCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/MM.o "/Users/belcorriko/Dropbox/MM Improving/MM.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315471845.976572
+e315471846.712895
+r1
+xCompileC
+xbuild/MM.build/Debug/MM.build/Objects-normal/x86_64/MM.o
+x/Users/belcorriko/Dropbox/MM Improving/MM.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/belcorriko/Dropbox/MM Improving/MM.m315471845#315471846#0(0"0(0#0#43"/Users/belcorriko/Dropbox/MM Improving/MM.m8608452320#1368"    cd "/Users/belcorriko/Dropbox/MM Improving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-generated-files.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-own-target-headers.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-all-target-headers.hmap" -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-project-headers.hmap" "-F/Users/belcorriko/Dropbox/MM Improving/build/Debug" "-I/Users/belcorriko/Dropbox/MM Improving/build/Debug/include" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources/x86_64" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources" -include /var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch -c "/Users/belcorriko/Dropbox/MM Improving/MM.m" -o "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/MM.o"0#
+
+CCompileC build/MM.build/Debug/MM.build/Objects-normal/x86_64/Player.o "/Users/belcorriko/Dropbox/MM Improving/Player.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315471846.713006
+e315471848.032695
+r1
+xCompileC
+xbuild/MM.build/Debug/MM.build/Objects-normal/x86_64/Player.o
+x/Users/belcorriko/Dropbox/MM Improving/Player.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/belcorriko/Dropbox/MM Improving/Player.m315471846#315471848#0(0"0(0#0#47"/Users/belcorriko/Dropbox/MM Improving/Player.m8607860576#1376"    cd "/Users/belcorriko/Dropbox/MM Improving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-generated-files.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-own-target-headers.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-all-target-headers.hmap" -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-project-headers.hmap" "-F/Users/belcorriko/Dropbox/MM Improving/build/Debug" "-I/Users/belcorriko/Dropbox/MM Improving/build/Debug/include" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources/x86_64" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources" -include /var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch -c "/Users/belcorriko/Dropbox/MM Improving/Player.m" -o "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/Player.o"0#
+
+CLd "/Users/belcorriko/Dropbox/MM Improving/build/Debug/MM" normal x86_64
+s315471872.832985
+e315471872.948993
+r1
+xLd
+x/Users/belcorriko/Dropbox/MM Improving/build/Debug/MM
+xnormal
+xx86_64
+lSLF07#2@58"Link /Users/belcorriko/Dropbox/MM Improving/build/Debug/MM315471872#315471872#0(0"0(0#0#0"8608693824#510"    cd "/Users/belcorriko/Dropbox/MM Improving"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/belcorriko/Dropbox/MM Improving/build/Debug" "-F/Users/belcorriko/Dropbox/MM Improving/build/Debug" -filelist "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/Objects-normal/x86_64/MM.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/belcorriko/Dropbox/MM Improving/build/Debug/MM"0#
+
+CProcessPCH /var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch.gch MM_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315471838.115352
+e315471845.976346
+r1
+xProcessPCH
+x/var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch.gch
+xMM_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@24"Precompile MM_Prefix.pch315471838#315471845#0(0"0(0#0#52"/Users/belcorriko/Dropbox/MM Improving/MM_Prefix.pch3276484617421606912#1281"    cd "/Users/belcorriko/Dropbox/MM Improving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-generated-files.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-own-target-headers.hmap" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-all-target-headers.hmap" -iquote "/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/MM-project-headers.hmap" "-F/Users/belcorriko/Dropbox/MM Improving/build/Debug" "-I/Users/belcorriko/Dropbox/MM Improving/build/Debug/include" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources/x86_64" "-I/Users/belcorriko/Dropbox/MM Improving/build/MM.build/Debug/MM.build/DerivedSources" -c "/Users/belcorriko/Dropbox/MM Improving/MM_Prefix.pch" -o /var/folders/6H/6HY5o+BcF+qML-uVe6PxHU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MM_Prefix-fkstfkbhhrbkvxejrkhhtahyjnzs/MM_Prefix.pch.gch0#
+
